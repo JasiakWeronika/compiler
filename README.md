@@ -12,5 +12,5 @@ Uruchomienie:	./kompilator <plikwejsciowy> <plikwyjsciowy>
 
 Wymagania:	bison			3.0.4
 		flex			2.6.4
-		gcc				7.3.0
-		ubuntu		18.04.1 LTS
+		gcc			7.3.0
+		ubuntu			18.04.1 LTS
